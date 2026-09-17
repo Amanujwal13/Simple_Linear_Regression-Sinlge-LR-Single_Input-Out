@@ -3,6 +3,7 @@
     Basic Mathematical Logic to build a Linear Regression Model from formulas..
 </p>
 
+```
 Simple Linear Regression/
 │
 ├──data
@@ -10,7 +11,7 @@ Simple Linear Regression/
 ├── formula's
 ├── LR.ipynb
 └── README.md
-    </pre>
+```
 
 <h2>⭐ Support</h2>
 
