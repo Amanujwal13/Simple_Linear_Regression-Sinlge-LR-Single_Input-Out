@@ -8,7 +8,7 @@ Simple Linear Regression/
 │
 ├──data
 │    └──placement.csv
-├── formula's
+├── Formula's
 ├── LR.ipynb
 └── README.md
 ```
